@@ -15,7 +15,7 @@ h1 {
 }
 
 .slogan {
-  color: hsla(0, 0%, 100%, 0.7);
+  color: hsl(29, 86%, 80%);
   font-weight: lighter;
   font-size: 1.6rem;
 }
