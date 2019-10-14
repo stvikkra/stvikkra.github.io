@@ -14,6 +14,20 @@ h1 {
   font-weight: bold;
 }
 
+a.projectlink{
+  color: black;
+  text-decoration: none;
+}
+
+a.projectlink:visited{
+  color: black;
+
+}
+
+a.projectlink:hover{
+  color: purple;
+}
+
 .slogan {
   color: hsl(29, 86%, 80%);
   font-weight: lighter;
